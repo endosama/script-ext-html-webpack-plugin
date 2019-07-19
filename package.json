@@ -55,6 +55,7 @@
     "jasmine": "^3.4.0",
     "jasmine-spec-reporter": "^4.2.1",
     "jasmine2-custom-message": "^0.9.3",
+    "path": "^0.12.7",
     "rimraf": "^2.6.3",
     "semistandard": "^13.0.1",
     "uglifyjs-webpack-plugin": "^2.1.3",
